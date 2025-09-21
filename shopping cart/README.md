@@ -24,5 +24,5 @@ The goal was to make the code **cleaner, more maintainable, and correct** while 
 - import org.springframework.web.bind.annotation.* is included for annotations like @RestController, @PostMapping, and @GetMapping.
 - These annotations would only work in a real Spring Boot application with the spring-boot-starter-web dependency.
 - For this assessment, the annotations are shown only to illustrate how this logic would be exposed as REST endpoints in a web service. 
+- As the instuction mentioned I did not create a full spring boot applicatio.
 
-- As the instuction mentioned I did not create a full spring boot applicatio. The code is not intended to be run directly.
